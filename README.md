@@ -22,7 +22,7 @@
 | 🟢 **Level 2** | Create Our First React App | Practice Project 1 |
 | 🟢 **Level 3** | Props in React | Practice Project 2 |
 | 🟢 **Level 4** | Hooks in React | Practice Project 3 |
-| 🟢 **Level 5** | React Router | Practice Project 4 |
+| 🟢 **Level 5** | React Router | - |
 | 🟢 **Level 6** | Context API | – |
 
 ---
