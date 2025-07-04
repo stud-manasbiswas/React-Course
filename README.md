@@ -49,7 +49,6 @@
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/> React | Library for building UI |
 | <img src="https://vitejs.dev/logo.svg" width="30"/> Vite | Fast Frontend Build Tool |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> JavaScript | Programming Language |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/> Node.js | Backend & Dependency Management |
 
 </div>
 
